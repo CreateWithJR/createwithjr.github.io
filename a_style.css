@@ -1,0 +1,23 @@
+*{
+    margin:0px; 
+    background-color: pink;
+}
+
+.container{
+    display:grid;
+}
+
+.navbar{
+    list-style-type: none;
+    display: inline-flex;
+    padding:10px;
+}
+li{
+    padding:10px;
+    border-style: double;
+    width: max-content;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
